@@ -1,0 +1,17 @@
+{
+  "BarChart": [
+    {"label": "Jan", "value": 100},
+    {"label": "Feb", "value": 150},
+    {"label": "Mar", "value": 200}
+  ],
+  "LineChart": [
+    {"time": "2026-02-01T10:00:00", "value": 50},
+    {"time": "2026-02-01T11:00:00", "value": 75},
+    {"time": "2026-02-01T12:00:00", "value": 100}
+  ],
+  "PieChart": [
+    {"category": "Apple", "value": 30},
+    {"category": "Orange", "value": 50},
+    {"category": "Banana", "value": 20}
+  ]
+}

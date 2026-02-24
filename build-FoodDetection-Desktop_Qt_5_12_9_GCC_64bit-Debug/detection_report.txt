@@ -1,0 +1,221 @@
+========== Detection Report ==========
+
+Frame 1:
+  - carrot
+  - banana
+
+Frame 2:
+  - carrot
+
+Frame 3:
+  - carrot
+  - banana
+
+Frame 4:
+  - banana
+  - orange
+
+Frame 5:
+  No objects detected
+
+Frame 6:
+  - carrot
+  - carrot
+
+Frame 7:
+  - banana
+
+Frame 8:
+  No objects detected
+
+Frame 9:
+  - carrot
+
+Frame 10:
+  - carrot
+
+Frame 11:
+  - carrot
+
+Frame 12:
+  - carrot
+
+Frame 13:
+  - banana
+
+Frame 14:
+  - banana
+
+Frame 15:
+  - banana
+
+Frame 16:
+  - carrot
+  - banana
+
+Frame 17:
+  - carrot
+  - banana
+
+Frame 18:
+  - banana
+  - carrot
+
+Frame 19:
+  - broccoli
+  - carrot
+
+Frame 20:
+  - broccoli
+  - carrot
+
+Frame 21:
+  - carrot
+  - banana
+
+Frame 22:
+  - carrot
+  - carrot
+  - carrot
+  - banana
+  - broccoli
+  - carrot
+
+Frame 23:
+  - carrot
+  - carrot
+  - carrot
+
+Frame 24:
+  - broccoli
+  - carrot
+  - banana
+
+Frame 25:
+  - broccoli
+  - carrot
+  - banana
+
+Frame 26:
+  - carrot
+  - banana
+  - broccoli
+
+Frame 27:
+  - carrot
+  - broccoli
+  - banana
+
+Frame 28:
+  - carrot
+  - carrot
+  - broccoli
+  - banana
+  - banana
+  - orange
+
+Frame 29:
+  - carrot
+  - broccoli
+  - carrot
+  - banana
+  - banana
+
+Frame 30:
+  - carrot
+  - carrot
+
+Frame 31:
+  - carrot
+  - broccoli
+  - carrot
+  - banana
+
+Frame 32:
+  - carrot
+  - banana
+  - broccoli
+
+Frame 33:
+  - carrot
+  - broccoli
+  - banana
+
+Frame 34:
+  - broccoli
+  - carrot
+  - banana
+
+Frame 35:
+  - broccoli
+  - carrot
+  - banana
+
+Frame 36:
+  - carrot
+  - banana
+  - broccoli
+  - banana
+
+Frame 37:
+  - carrot
+  - banana
+  - broccoli
+
+Frame 38:
+  - carrot
+
+Frame 39:
+  - carrot
+  - broccoli
+
+Frame 40:
+  - carrot
+  - broccoli
+
+Frame 41:
+  - carrot
+  - broccoli
+  - banana
+
+Frame 42:
+  - carrot
+  - banana
+
+Frame 43:
+  - carrot
+  - banana
+
+Frame 44:
+  - carrot
+  - carrot
+
+Frame 45:
+  - carrot
+  - broccoli
+
+Frame 46:
+  - carrot
+  - banana
+
+Frame 47:
+  - carrot
+  - banana
+
+Frame 48:
+  - carrot
+  - broccoli
+
+Frame 49:
+  - carrot
+  - banana
+
+Frame 50:
+  - carrot
+
+
+========== Summary ==========
+banana : 34
+broccoli : 21
+carrot : 54
+orange : 2

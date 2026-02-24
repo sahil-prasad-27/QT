@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>chart_data.json</file>
+    </qresource>
+</RCC>
