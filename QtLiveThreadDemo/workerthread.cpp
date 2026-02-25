@@ -13,7 +13,7 @@ WorkerThread::WorkerThread(QObject *parent)
       paused(false),
       stopped(false)
 {
-    apiKey = "627d9fa404e1ed59198e20c6b4766b9c";
+    apiKey = "your api key";
     city = "Delhi";
 }
 
